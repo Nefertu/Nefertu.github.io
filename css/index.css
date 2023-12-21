@@ -3297,19 +3297,19 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('/img/background1.jpeg');
+  background: url('/img/cover1.jpeg');
 }
 li.categoryBar-list-item:nth-child(2) {
   background: url('/img/background2.jpeg');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('/img/background3.jpeg');
+  background: url('/img/cover3.jpeg');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: '编程' !important;
+  content: '学习' !important;
 }
 li.categoryBar-list-item:nth-child(2)>span::after {
-  content: '学习' !important;
+  content: '编程' !important;
 }
 li.categoryBar-list-item:nth-child(3)>span::after {
   content: '随记' !important;
